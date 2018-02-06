@@ -23,9 +23,8 @@
     implement some of the machine learning algorithms after preprocessing text data.The maximum accuracy i got is 43%.
  
 
-# Data:  
-    The data provided could be found on kaggle link:
-    <a href="https://www.kaggle.com/c/msk-redefining-cancer-treatment#evaluation">Click here</a> to get the dataset.<br />
+# Data: 
+ <a href="https://www.kaggle.com/c/msk-redefining-cancer-treatment#evaluation">Click here</a> to get the dataset.<br />
     
     1. training_variants - a comma separated file containing the description of the genetic mutations used for training. Fields 
     are ID (the id of the row used to link the mutation to the clinical evidence), Gene (the gene where this genetic mutation is 
